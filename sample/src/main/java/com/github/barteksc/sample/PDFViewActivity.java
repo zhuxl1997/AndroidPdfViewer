@@ -33,7 +33,7 @@ public class PDFViewActivity extends AppCompatActivity implements
     private static final String TAG = PDFViewActivity.class.getSimpleName();
 
     private static final int PERMISSION_CODE = 42042;
-    private static final String SAMPLE_FILE = "sample.pdf";
+    private static final String SAMPLE_FILE = "2609040944300608.pdf";
     private static final String READ_EXTERNAL_STORAGE = "android.permission.READ_EXTERNAL_STORAGE";
 
     private PDFView pdfView;
